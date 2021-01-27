@@ -19,6 +19,13 @@ body {
     margin: 0 0 10px;
     padding: 10px;
 }
+.primary-box h2 {
+    font-family: sans-serif;
+}
+
+.primary-box em {
+    color: #4d80ef;
+}
 
 .secondary-box {
     background: #eee;
@@ -26,4 +33,12 @@ body {
     font-size: 24px;
     margin: 0 0 10px;    
     padding: 10px;
+}
+
+.secondary-box p {
+    font-family: sans-serif;
+}
+
+.secondary-box em {
+    color: #fd2cfa;
 }
