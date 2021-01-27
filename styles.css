@@ -16,8 +16,18 @@ body {
     background: #222;
     color: #eee;
     font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0 0 10px;
     padding: 10px;
+}
+
+.primary-box p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.primary-box em {
+    color: blue;
+    font-family: Times;
 }
 
 .secondary-box {
@@ -26,4 +36,13 @@ body {
     font-size: 24px;
     margin: 0 0 10px;    
     padding: 10px;
+}
+
+.secondary-box p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.secondary-box em {
+    color: purple;
+    
 }
