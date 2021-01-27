@@ -5,14 +5,18 @@
 }
 
 body {
-    background: #4d2d06;
+    background: white
     font-family: Georgia, Times, serif;
-    color: #fff;
     text-align: center;
-    font-size: 50px;    
+    font-size: 50px;  
+    color: #222;
 }
 
-.primary-box {
+.primary-box p
+{color: deepskyblue;
+}
+
+.primary-box { 
     background: #222;
     color: #eee;
     font-size: 24px;
@@ -26,4 +30,8 @@ body {
     font-size: 24px;
     margin: 0 0 10px;    
     padding: 10px;
+}
+.secondary-box p {
+    color: deeppink;
+    font-weight: 100;
 }
